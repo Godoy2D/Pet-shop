@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+*{
+    margin: 0%;
+}
+
+header{
+    display: flex;
+   align-items: center;
+   padding: 0 25px;
+    background-color: rgb(40, 166, 238);
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.foto img{
+    height: 300px;
+    margin: 30px;
+   margin-left:  100px;
+}
+
+div.logotipo img{
+    height: 130px;
+    text-align: center;
+}
+
+    
+section h2 {
+    text-align: center;
+    height: 50px;
+    margin: 50px;
+    font-size: 50px;
+    color: rgb(40, 166, 238);
+}
+
+.noticias1 {
+    text-align: center;
+    font-size: 1000px;
+    margin: 30px;
+}
+
+footer{
+    background-color: rgb(13, 77, 114) ;
+    display: flex;
+    align-items: center;
+    height: 100px;
+    justify-content: center;
+}
+
+p{
+    text-align: center;
+}
